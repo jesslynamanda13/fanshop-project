@@ -1,15 +1,7 @@
 <div style="text-align: center;">
     <img src="assets/images/logo.png" alt="Logo" style="width: 200px; margin-bottom: 20px;">
-    <div style="background-color: #66FF66;
-                padding: 10px;
-                border-radius: 8px;
-                display: inline-block; 
-                margin-bottom: 20px;">
-        <p style="color: white; Your new favorite marketplace, flooded with your favorite artists' merchandises. </p>
-        <p style="color: white; /* White text color */">
-            <em>Search through your favorite artists and start selling</em>
-        </p>
-    </div>
+    <p>Your new favorite marketplace, flooded with your favorite artists' merchandises. Curated by fans, for fans.</p>
+    <p><em>Search through your favorite artists and start selling</em></p>
 
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
         <img src="https://drive.google.com/uc?export=view&id=1QGGpCnGjwXLp6DV55PUz4UZTi0YiB3Mr" alt="Image 1" style="width: 200px;">
