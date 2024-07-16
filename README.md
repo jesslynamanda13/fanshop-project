@@ -1,5 +1,14 @@
-<img src="assets/images/logo.png" alt="Logo" style="width: 200px; margin-bottom: 20px;">
-<p>Your new favorite marketplace, flooded with your favorite artists' merchandises. Curated by fans, for fans.</p>
+<div style="text-align: center;">
+    <img src="assets/images/logo.png" alt="Logo" style="width: 200px; margin-bottom: 20px;">
+</div>
+<p>Your new favorite marketplace, flooded with your favorite artists' merchandises</p>
+<div style="background-color: #66FF66; /* Neon green color */
+                padding: 10px;
+                border-radius: 8px;
+                display: inline-block; /* Ensures the box fits content */
+                margin-bottom: 20px;">
+    <p style="color: white;">Curated by fans, for fans</p>
+</div>
 <p><em>Search through your favorite artists and start selling</em></p>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
