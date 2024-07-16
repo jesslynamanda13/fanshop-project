@@ -2,10 +2,10 @@
     <img src="assets/images/logo.png" alt="Logo" style="width: 200px; margin-bottom: 20px;">
 </div>
 <p>Your new favorite marketplace, flooded with your favorite artists' merchandises</p>
-<div style="background-color: #66FF66; /* Neon green color */
+<div style="background-color: #66FF66; 
                 padding: 10px;
                 border-radius: 8px;
-                display: inline-block; /* Ensures the box fits content */
+                display: inline-block; 
                 margin-bottom: 20px;">
     <p style="color: white;">Curated by fans, for fans</p>
 </div>
