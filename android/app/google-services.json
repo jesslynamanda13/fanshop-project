@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115504965497",
+    "project_id": "fanshop-2aba9",
+    "storage_bucket": "fanshop-2aba9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115504965497:android:6327094b64e24781b2b1a8",
+        "android_client_info": {
+          "package_name": "com.example.fanshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUtNEBlCpdGTjO8UxCHPR0zTwzD6qJmMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
